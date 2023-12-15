@@ -1,0 +1,2 @@
+# TheOracleBot
+Example Discord bot
